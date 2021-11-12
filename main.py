@@ -1,3 +1,6 @@
+# simple program to manage passwords with RSA encryption
+# author: archish arun
+
 from os import error
 from getpass import *
 import Crypto
